@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
+
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ananya+Mishra..;Computer+Science+Engineer;React-MERN+Developer;Open-Source+Enthusiast;Exploring+Linux+and+Fedora;Nice+To+Meet+You+....&center=true">
 </p>
 
@@ -39,7 +43,6 @@ Here are some ideas to get you started:
 - *Methodologies:* CI/CD | Agile Development
 - *Databases & APIs:* RESTful APIs | Redis | MySQL
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishraananya2801&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
