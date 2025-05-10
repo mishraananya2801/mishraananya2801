@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 - *Methodologies:* CI/CD | Agile Development
 - *Databases & APIs:* RESTful APIs | Redis | MySQL
 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishraananya2801&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=mishraananya2801&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
